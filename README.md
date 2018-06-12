@@ -8,7 +8,10 @@ To get a copy of this repository type `git clone https://github.com/MichelleLoch
 Key files:
 
 `machine_learning_notes.pdf` -> The notes from the lecture (without the answers) <br>
-`supernova_tutorial.ipynb` -> A Jupyter Notebook tutorial for supernova classification with machine learning.
+`tutorial-basic.ipynb` -> A very simple tutorial illustrating some of the concepts from the lecture
+`tutorial-supernovae.ipynb` -> The main tutorial using supernova classification as an example
+`tutorial-galaxies.ipynb` -> A different example with some raw spectroscopic galaxy data for you to play with
+`tutorial-deep-learning.ipynb` -> A very simple and non-exhaustive deep learning example with `tflearn`
 
 ## Running the code
 
@@ -47,13 +50,14 @@ dependencies:
   - iminuit>=0.12
   - sncosmo>=1.3.0
 
+All these packages can be installed with `pip3 install <package name> --user`.
 The notebook has not been tested with python 2 but should still work. 
 
 ### Running the tutorial
 
-Type `jupyter notebook supernova_tutorial.ipynb` into the command line after activating the environment.
+Type `jupyter notebook tutorial_supernova.ipynb` into the command line after activating the environment. All the tutorial notebooks can be run this way.
 
 ## Deep Learning tutorial
 
-There is also a very basic deep learning tutorial based on tflearn. You'll need to install tflearn yourself (`pip install tflearn`). WARNING: this thing is very slow unless you have a GPU and install the GPU version tensorflow. It's also highly incomplete so use at your own risk...
+The tutorial on deep learning is extremely simple, just to give you an idea of how to get started. You need to install `tflearn`, which is a package built on `tensorflow` and can be installed with `pip3 install tflearn --user`. **Warning:** Deep learning is very slow without a GPU, don't try to do anything too complicated without one!
 
