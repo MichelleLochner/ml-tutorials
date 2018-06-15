@@ -1,3 +1,6 @@
+# Please fill this in!
+https://goo.gl/forms/c1U3vEjqjIz0AwwF3
+
 # Machine learning tutorial 
 ### By Michelle Lochner
 
