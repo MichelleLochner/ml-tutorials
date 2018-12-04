@@ -11,6 +11,10 @@ Key files:
 `tutorial-galaxies.ipynb` -> A different example with some raw spectroscopic galaxy data for you to play with
 `tutorial-deep-learning.ipynb` -> A very simple and non-exhaustive deep learning example with `tflearn`
 
+**N.B. MAKE SURE THE WHOLE NOTEBOOK WORKS BEFORE ARRIVING AT A WORKSHOP**
+
+For example, `tutorial-supernovae.ipynb` will need to download some models the first time you run it. If you try do this without an internet connection, it will fail. Check that all the existing code works beforehand.
+
 ## Running the code
 
 ### Using Anaconda
