@@ -1,7 +1,7 @@
 # Machine learning tutorial 
 ### By Michelle Lochner
 
-To get a copy of this repository type `git clone https://github.com/MichelleLochner/ml_esac.git` in the command line or click "Clone or download" and click "download zip" if you don't have git installed.
+To get a copy of this repository type `git clone https://github.com/MichelleLochner/ml-tutorials.git` in the command line or click "Clone or download" and click "download zip" if you don't have git installed.
 
 Key files:
 
