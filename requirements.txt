@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scikit-learn
+jupyter lab
+ipympl
+astropy
+sncosmo
+iminuit
