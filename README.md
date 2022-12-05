@@ -23,7 +23,9 @@ dependencies:
   - python>=3
   - astropy>=1.1.2
   - jupyter>=1.0.0
+  - jupyter lab (recommended)
   - matplotlib>=1.5.1
+  - ipympl (recommended)
   - numpy>=1.11.0
   - scikit-learn>=0.18.1
   - scipy>=0.17.0
