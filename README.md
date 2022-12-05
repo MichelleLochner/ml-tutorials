@@ -51,6 +51,7 @@ dependencies:
   - scipy>=0.17.0
   - iminuit>=0.12
   - sncosmo>=1.3.0
+  - pytorch, torchvision (if you want to run the deep learning tutorial)
 
 All these packages can be installed with `pip3 install <package name> --user`.
 The notebook has not been tested with python 2 but should still work. 
@@ -61,5 +62,5 @@ Type `jupyter notebook tutorial_supernova.ipynb` into the command line after act
 
 ## Deep Learning tutorial
 
-The tutorial on deep learning is extremely simple, just to give you an idea of how to get started. You need to install `tflearn`, which is a package built on `tensorflow` and can be installed with `pip3 install tflearn --user`. **Warning:** Deep learning is very slow without a GPU, don't try to do anything too complicated without one!
+The tutorial on deep learning is extremely simple, just to give you an idea of how to get started. You need to install `pytorch`, instructions in the notebook. **Warning:** Deep learning is very slow without a GPU, don't try to do anything too complicated without one!
 
