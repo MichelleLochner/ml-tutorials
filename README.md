@@ -4,15 +4,21 @@
 
 #### 1. To get a copy of this repository paste the following commands into your git:
 
-``` git clone https://github.com/MichelleLochner/ml-tutorials.git ```
+``` 
+git clone https://github.com/MichelleLochner/ml-tutorials.git 
+```
 
 #### 2. Go to the repository:
 
-``` cd ml-tutorials ```
+``` 
+cd ml-tutorials
+```
  
 ### If you don't have git installed, copy and paste the following command:
 
-``` pip install git ```
+``` 
+pip install git 
+```
 
 ### Key files:
 
