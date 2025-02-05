@@ -3,7 +3,7 @@
 
 
 #### 1. To get a copy of this repository paste the following commands into your git:
-
+    
 ``` 
 git clone https://github.com/MichelleLochner/ml-tutorials.git 
 ```
