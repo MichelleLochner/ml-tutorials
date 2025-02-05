@@ -8,11 +8,15 @@
 
 #### 2. Go to the repository:
 
-``` cd ml-tutorials ```
+``` 
+cd ml-tutorials
+ ```
  
 ### If you don't have git installed, copy and paste the following command:
 
-``` pip install git ```
+``` 
+pip install git
+```
 
 ### Key files:
 
